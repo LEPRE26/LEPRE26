@@ -25,7 +25,6 @@
 - 📱 [Mobile-P1](https://github.com/LEPRE26/Mobile-P1) — Projeto mobile utilizando TypeScript.
 - ☕ [ETECNetBeans](https://github.com/LEPRE26/ETECNetBeans) — Exercícios e projetos em Java.
 - 🤖 [J-uno](https://github.com/LEPRE26/J-uno) — Atividades utilizando Arduino e C++.
-- 🌐 [vamo-ve-no-que-da](https://github.com/LEPRE26/vamo-ve-no-que-da) — Projeto web relacionado ao TCC.
 - 📱 [exercicioreactnative](https://github.com/LEPRE26/exercicioreactnative) — Exercícios de React Native.
 
 > 
