@@ -14,7 +14,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,cpp,react,flutter,arduino,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,nodejs,js,ts,cpp,react,flutter,arduino,git,github" />
 </p>
 
 ---
